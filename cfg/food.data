@@ -1,0 +1,6 @@
+classes=9
+train=./data/train.txt
+valid=./data/val.txt
+names=./cfg/food.names
+backup=backup/
+eval=coco
